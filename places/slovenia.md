@@ -20,7 +20,7 @@ Great spa center
 Opis
 Location: https://goo.gl/maps/LPR6n4vQLqSSvDry8
 
-Ljubljana
+##### Ljubljana
 
 Čokl - "fair trade" coffee, best for saturdays/sundays before noon. Cute thing happens every full hour. it is located next to the puppet theatre and "zeilbahn" to the castle
 Cafe Čokl, Krekov trg 8, 1000 Ljubljana, Slovenija
