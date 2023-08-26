@@ -32,3 +32,5 @@ https://goo.gl/maps/KQfpRJZWafeVupbh7?coh=178571&entry=tt
 Nuture Mini ART Golf Berlin - Minigolf als Kunstpark 
 A very different minigolf
 https://goo.gl/maps/6Eu8WP6u9DaCupY86?coh=178571&entry=tt
+
+Bla bla bla Kaja
