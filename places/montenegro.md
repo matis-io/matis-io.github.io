@@ -5,11 +5,11 @@ description: k & m
 permalink: /km/montenegro
 ---
 
-#### Montenegro
+## Montenegro
 
-Кафе с гранаиовым вином
-https://goo.gl/maps/g8bbeimbQLm5jLiH8
+**Кафе с гранаиовым вином**  
+[Location](https://goo.gl/maps/g8bbeimbQLm5jLiH8)
 
-Apart & Spa Beganovic
-https://goo.gl/maps/rYWYFVVNYopRynus6
+**Apart & Spa Beganovic**  
+[Location](https://goo.gl/maps/rYWYFVVNYopRynus6)
 

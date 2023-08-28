@@ -5,10 +5,10 @@ description: k & m
 permalink: /km/belgium
 ---
 
-### Belgium
-#### Brussels
+## Belgium
+### Brussels
 
-**MOK Specialty Coffee**
-Great place for coffee & breakfast
-Opis
-Location: https://goo.gl/maps/SQX2q7HPeJPc11uw8
+**MOK Specialty Coffee**  
+Great place for coffee & breakfast  
+[Rue Antoine Dansaert 196](https://goo.gl/maps/SQX2q7HPeJPc11uw8){:target="_blank"}
+

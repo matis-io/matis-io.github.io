@@ -5,11 +5,10 @@ description: k & m
 permalink: /km/serbia
 ---
 
-### Serbia
+## Serbia
 
-Belgrade
+### Belgrade
 
-Dorcol Platz
-https://goo.gl/maps/wKFQmeqGuxC9Tx5JA
-
+**Dorcol Platz**  
+[Location](https://goo.gl/maps/wKFQmeqGuxC9Tx5JA)
 

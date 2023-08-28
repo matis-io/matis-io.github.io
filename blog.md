@@ -5,4 +5,4 @@ description: m - site blog
 permalink: /blog
 ---
 
-Just my thoughts.
+## Latest posts

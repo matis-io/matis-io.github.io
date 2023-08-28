@@ -5,16 +5,22 @@ description: k & m
 permalink: /km/bosnia
 ---
 
-### Bosnia
+## Bosnia
 
-Sarajevo
+**Kravice**  
+Really nice place to cool off and have a swim  
+[Location]()
 
-Jazzbina
-https://g.page/jazzbinasarajevo?share
+### Sarajevo
 
-Dzenita
-https://g.page/restorandzenita?share
+**Jazzbina**  
+Lovely bar in the city with live jazz music - check their schedule  
+[Location](https://g.page/jazzbinasarajevo?share)  
 
-ASDŽ Aščinica
-https://g.page/ASDZ_Ascinica?share
+**Dzenita**  
+[Location](https://g.page/restorandzenita?share)  
+
+**ASDŽ Aščinica**  
+Amazing food  
+[Location](https://g.page/ASDZ_Ascinica?share)  
 

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  " Odyssey 2083 - LP"
+date:   2021-03-29
+tags: [music]
+---
+
+Odyssey 2083 was created as a homage to early electronic music. I used synthesis techniques that were used in some of the greatest hits in the late 70s in early 80s krautrock, synthpop, and electronic music. The tracks are a mixture of recreated analog synthesizer sounds and while "Neo Normal" and "Synthropy" try to look in the past, "2083" is completely reimagined for a new era.  
+
+You can **listen** to it on my [Bandcamp](https://matisme.bandcamp.com/album/odyssey-2083) or [SoundCloud](https://soundcloud.com/matisme/sets/odyssey-2083)  
+
+And you can find the created **Ableton Live Analog presets** on my [GitHub](https://github.com/matis-io/AbletonAnalog80sSound)
+
+![Album Artwork](/images/Odyssey 2083.png)

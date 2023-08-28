@@ -3,9 +3,13 @@ layout: default
 title: Hi
 ---
 
-
 ## Welcome to m - site
 
-This is where I'll add conetent
+Hi. It seems you've stumbled upon my website.
 
-*Be sure to check out my blog as well*
+![Matic](/images/m.png)
+
+I'm Matis, full-time IT Manager, free-time Audio Engineer & Technology Enthusiast. On this website you can read my blog or discover some of the projects that I've been working on.  
+
+Enjoy your stay
+

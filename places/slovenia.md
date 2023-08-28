@@ -5,22 +5,21 @@ description: k & m
 permalink: /km/slovenia
 ---
 
-#### Slovenija
+## Slovenija
 
-Nadiza Gorge
-Great place to swim
-Location: https://goo.gl/maps/6mND1w1QhGm5tpuC6
+**Nadiza Gorge**  
+Great place to swim  
+[Location](https://goo.gl/maps/6mND1w1QhGm5tpuC6)
 
-Gostilna Topli Val
-Great place to eat
-Location: https://g.page/HvalaTopliVal?share
+**Gostilna Topli Val**  
+Great place to eat  
+[Location](https://g.page/HvalaTopliVal?share)
 
-Lepa Vida
-Great spa center
-Opis
-Location: https://goo.gl/maps/LPR6n4vQLqSSvDry8
+**Lepa Vida**  
+Great spa center  
+[Location](https://goo.gl/maps/LPR6n4vQLqSSvDry8)
 
-##### Ljubljana
+### Ljubljana
 
 Čokl - "fair trade" coffee, best for saturdays/sundays before noon. Cute thing happens every full hour. it is located next to the puppet theatre and "zeilbahn" to the castle
 Cafe Čokl, Krekov trg 8, 1000 Ljubljana, Slovenija
