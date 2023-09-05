@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Blog
-description: m - site blog
+title: Projects
+description: Projects
 permalink: /blog
 ---
 
-## Latest posts
+## Latest projects

@@ -1,7 +1,8 @@
 <h1 class="title">{{ site.title }}</h1>
 <nav>
     <a href="{{ site.url }}">Home</a> 
-    <a href="{{ site.url }}{{ site.Blog }}">Blog</a>
+    <a href="{{ site.url }}/blog">Projects</a>
+    <a href="{{ site.url }}/gear+tools">Gear+Tools</a>
 
     {% for link in site.links %}
         <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
