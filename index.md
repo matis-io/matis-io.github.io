@@ -5,11 +5,11 @@ title: Home
 
 ## Welcome to m - site
 
-Hi. It seems you've stumbled upon my website.
+Hi there, welcome to my site.
 
 ![Matic](/images/m.png)
 
-I'm Matis, full-time IT Manager, free-time Audio Engineer & Technology Enthusiast. On this website, you can read my blog or discover some of the projects that I've been working on.  
+I'm Matis, full-time IT Manager, free-time Audio Engineer & Technology Enthusiast. On this website, you can read my blog or discover some of the projects that I've been making and some the tools that I use.  
 
 ## Quick Links
 
