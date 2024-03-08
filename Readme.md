@@ -1,1 +1,1 @@
-This a repo for my website on github pages - https://matis-io.github.io/
+This is a repo for my website hosted on github pages - https://matis-io.github.io/
