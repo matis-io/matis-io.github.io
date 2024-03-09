@@ -16,5 +16,5 @@ Here are just a couple that I can't live without:
 - IINA (for listening to music)
 - LuLu (open source firewall)
 - Notesnook (organizing and storing notes)
-- Zettlr (for knowladge base)
+- Zettlr (for storing my knowladge base)
 
