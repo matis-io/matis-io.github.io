@@ -4,4 +4,7 @@ title: Gear + Tools
 permalink: /gear+tools
 ---
 
-## Gear and Tools I use for my work
+## Behind the Scenes
+Discover my work process and the tools I rely on for my projects.
+### This website
+This website is created using Markdown, compiled with Jekyll, and hosted on GitHub.
