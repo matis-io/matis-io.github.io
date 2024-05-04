@@ -21,7 +21,7 @@ To tackle this daunting task, I turned to Python and wrote a script that would g
 How the files looked when organised by my script:
 ![New Library](/images/library_now.png)
 
-I named my script MdCR (aka Music deConsolidator) and published it to my [GitHub](https://github.com/matis-io/MdCR){:target="_blank"} page where you can see it in action and read more about it.
+I named my script MdCR (aka Music deConsolidator) and published it to my [GitHub](https://github.com/matis-io/MdCR){:target="\_blank"} page where you can see it in action and read more about it.
 
 Integrating with Traktor
 

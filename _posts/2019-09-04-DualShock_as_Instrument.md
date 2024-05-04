@@ -44,7 +44,7 @@ The game controller, with its unique input capabilities, encouraged me to think 
 
 So, if you're looking to add a fresh perspective to your music creation process while learning a new tool, I encourage you to consider integrating and exploring the possibilities of game controllers and other unconventional input devices with Max for Live. The journey may be challenging, but the rewards can be truly transformative.
 
-I've uploaded the whole Max for Live project on my [GitHub](https://github.com/matis-io/MdCR){:target="_blank"}, where you can explore it further. If you open the patch in Max you will also see a discription of all the devices as I've documented everything.
+I've uploaded the whole Max for Live project on my [GitHub](https://github.com/matis-io/MdCR){:target="\_blank"}, where you can explore it further. If you open the patch in Max you will also see a discription of all the devices as I've documented everything.
 ![DualShock Controller](/images/MaxDeviceFull.png)
 
 2024 update: Max 8.6 now introduces "gamepad" object, so the very long process of maping the controller is no longer neccessary in the newer version. However, it is still a good way of learning how to program in Max.
