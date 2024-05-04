@@ -19,7 +19,7 @@ To tackle this daunting task, I turned to Python and wrote a script that would g
 Restructure after running the script, files in one directory with artist and track title:
 ![New Library](/images/library_now.png)
 
-I named my script MdCR (aka Music deConsolidator) and published it to my [GitHub](https://github.com/matis-io/MdCR){:target="\_blank"} page where you can see it in action and read more about it.
+I named my script MdCR (aka Music deConsolidator) and published it to my [GitHub](https://github.com/matis-io/MdCR){:target="\_blank"} page, where you can see it in action and read more about it.
 
 **Integrating with Traktor**  
 With the files now properly named and organised, I pointed Traktor to my newly created music folder and let it import and analyse the collection. I also had to export individual playlists from iTunes and import them into Traktor, but this step was relatively straightforward.
