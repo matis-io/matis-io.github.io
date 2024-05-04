@@ -2,7 +2,7 @@
 layout: post
 title:  "Revamping My Music Library"
 date:   2023-01-11
-tags: [music][tech]
+tags: [music, tech]
 ---
 
 Embracing a New Music Organizer
