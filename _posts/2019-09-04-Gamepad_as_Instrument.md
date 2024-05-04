@@ -11,7 +11,7 @@ tags: [music, tech]
 
 I was interested in learning how to use Max for Live, and while searching for an interesting project, I discovered the possibility of connecting a game controller and using its input in Max for Live. Realising the potential of controlling music with an unconventional controller, I decided to utilise my Sony DualShock 4 game controller - an input device initially designed for video games, but with untapped potential for music production. My goal was to transform the controller's input messages into MIDI data that could be used to control instruments within Ableton Live, allowing me to use these unique ergonomics and input capabilities to manipulate multiple parameters at once using different finger movements.
 
-**Diving into Max for Live**
+**Diving into Max for Live**  
 To kickstart my learning, I turned to two invaluable resources: the comprehensive documentation within the Max program itself, and a course from Kadenze called "Programming Max: Structuring Interactive Software for Digital Arts." The course, created in collaboration with Stanford University, proved to be an excellent starting point, as it delved into the fundamental concepts and techniques of working with Max. With these, I was able to gradually build my understanding and start crafting the necessary patches to connect the game controller to Ableton Live.
 
 **Mapping the Controller**
@@ -38,7 +38,7 @@ The whole Max device:
 
 ![Full Max Device](/images/MaxDeviceFull.png)
 
-**Conclusion**
+**Conclusion**  
 Along the process I was able to learn all the nits and bits of operating Max for Live, but also discovered I was able to approach music production with a fresh perspective, experimenting with new ways of manipulating sound and shaping the overall musical experience.
 
 The game controller, with its unique input capabilities, encouraged me to think beyond the confines of the keyboard and mouse, and to explore more intuitive and expressive methods of music creation.
