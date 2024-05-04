@@ -29,15 +29,11 @@ Through a combination of sub-patches and routing, I was able to create a well-or
 
 **Integrating with Ableton Live**
 
-![Max Device](/images/MaxDDevice.png)
+![Max Device](/images/MaxDevice.png)
 
 With the Max for Live patch in place, the final step was to seamlessly integrate the game controller into my Ableton Live workflow. By routing the MIDI output from the Max for Live device to a virtual MIDI interface, I was able to map the various control changes to specific parameters within Ableton's built-in instruments and effects.
 
 The result was a highly customisation and responsive interface that allowed me to explore new ways of interacting with my music. Whether it was fine-tuning the cutoff frequency of a synth or adjusting the LFO rate in real-time, the game controller provided a level of tactile control and immediacy that was both engaging and inspiring.
-
-The whole Max device:
-
-![Full Max Device](/images/MaxDeviceFull.png)
 
 **Conclusion**
 
