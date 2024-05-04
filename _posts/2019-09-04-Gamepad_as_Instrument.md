@@ -28,7 +28,7 @@ Through a combination of sub-patches and routing, I was able to create a well-or
 
 **Integrating with Ableton Live**
 
-![DualShock Controller](/images/MaxDDevice.png)
+![Max Device](/images/MaxDDevice.png)
 
 With the Max for Live patch in place, the final step was to seamlessly integrate the game controller into my Ableton Live workflow. By routing the MIDI output from the Max for Live device to a virtual MIDI interface, I was able to map the various control changes to specific parameters within Ableton's built-in instruments and effects.
 
@@ -36,7 +36,7 @@ The result was a highly customisation and responsive interface that allowed me t
 
 The whole Max device:
 
-![DualShock Controller](/images/MaxDeviceFull.png)
+![Full Max Device](/images/MaxDeviceFull.png)
 
 **Conclusion**
 Along the process I was able to learn all the nits and bits of operating Max for Live, but also discovered I was able to approach music production with a fresh perspective, experimenting with new ways of manipulating sound and shaping the overall musical experience.
