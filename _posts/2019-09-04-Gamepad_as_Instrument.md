@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Unlocking the Creative Potential of Unconventional Inputs"
+title:  "Gamepad as an Instrument"
 date:   2019-09-04
 tags: [music, tech]
 ---
+
+**Unlocking the Creative Potential of Unconventional Inputs**
 
 ![DualShock Controller](/images/MaxDualShock.png)
 
