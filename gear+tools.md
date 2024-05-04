@@ -16,4 +16,5 @@ Here are just a couple of programs that I find indispensable:
 - IINA (music and media player)
 - LuLu (open source firewall)
 - Notesnook (organizing and storing notes)
+- VSCodium (for editing this page)
 - Zettlr (for storing my knowledge base)
