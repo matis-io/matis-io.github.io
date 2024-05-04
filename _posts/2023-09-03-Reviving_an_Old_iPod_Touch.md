@@ -2,7 +2,7 @@
 layout: post
 title:  "Reviving an Old iPod Touch"
 date:   2023-09-03
-tags: [music]
+tags: [music, tech]
 ---
 
 ![iPod](/images/ipod.png)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Unlocking the Creative Potential of Unconventional Inputs"
 date:   2019-09-04
-tags: [music,tech]
+tags: [music, tech]
 ---
 
 ![DualShock Controller](/images/MaxDualShock.png)
