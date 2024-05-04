@@ -11,12 +11,12 @@ As I set out to bring order to my music library, I knew I needed to make a chang
 **Untangling the Chaos**  
 The transition, however, was not without its challenges. My music collection, consolidated by iTunes, had all the files named simply by their titles, with no artist information. The folder structure also left much to be desired. I knew I needed to take a more hands-on approach to reorganise my library.
 
-How the file structure looked when they were sorted by iTunes:
+iTunes file structure, multiple subfolders, filenames with only track title:
 ![iTunes Library](/images/library_itunes.png)
 
 To tackle this daunting task, I turned to Python and wrote a script that would go through my entire music collection, renaming the files to include the artist's name and organising them into a more logical folder structure. This not only streamlined the process but also ensured consistency across my library.
 
-New filenames, all in one folder after running my script:
+Restructure after running the script, files in one directory with artist and track title:
 ![New Library](/images/library_now.png)
 
 I named my script MdCR (aka Music deConsolidator) and published it to my [GitHub](https://github.com/matis-io/MdCR){:target="\_blank"} page where you can see it in action and read more about it.
