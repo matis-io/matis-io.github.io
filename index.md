@@ -20,6 +20,5 @@ I'm Matis, full-time IT Manager, free-time Audio Engineer & Technology Enthusias
 Music on [BandCamp](https://matisme.bandcamp.com/){:target="_blank"} & [SoundCloud](https://soundcloud.com/matisme/tracks){:target="_blank"}  
 Code on [GitHub](https://github.com/matis-io){:target="_blank"}  
 Toots on <a rel="me" href="https://fosstodon.org/@matis_io">Mastodon</a>  
-or Pictures on [Instagram](https://www.instagram.com/matis.me/){:target="_blank"}  
 
 Enjoy your stay
