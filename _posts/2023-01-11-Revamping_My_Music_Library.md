@@ -31,3 +31,5 @@ To take my library management to the next level, I decided to run my music throu
 Now all that was left was to start playing some music!
 
 ![TraktorDJ](/images/traktorDJ.png)
+
+*Update: you can check out the <a href="{{ site.url }}/blog/revamping-my-music-library-p2">second part of my music library revamp series</a>, where I detailed my process of synching Traktor Pro library to an Android phone.

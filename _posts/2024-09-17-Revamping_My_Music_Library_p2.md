@@ -49,4 +49,4 @@ Traktor on the left and Vinyl on Android on the right:
 
 This setup has revolutionized how I interact with my music library. Not only can I manage and organize my tracks professionally in Traktor DJ, but I can also enjoy my entire collection on my phone with minimal effort.
 
-You can check out the <a href="{{ site.url }}/blog/korg-poly-800-mod">first part of my music library revamp series</a>, where I detailed my process of migrating from iTunes to Traktor DJ.
+You can check out the <a href="{{ site.url }}/blog/revamping-my-music-library">first part of my music library revamp series</a>, where I detailed my process of migrating from iTunes to Traktor DJ.
