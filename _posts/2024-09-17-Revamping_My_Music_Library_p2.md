@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Revamping My Music Library - p2 Synching Traktor DJ Pro with Android"
+title:  "Revamping My Music Library - p2 Synching Traktor with Android"
 date:   2024-09-17
 tags: [music, tech]
 ---

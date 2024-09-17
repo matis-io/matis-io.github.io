@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Revamping My Music Library - p1 migrating iTunes to Traktor"
+title:  "Revamping My Music Library - p1 Migrating iTunes to Traktor"
 date:   2023-01-11
 tags: [music, tech]
 ---
