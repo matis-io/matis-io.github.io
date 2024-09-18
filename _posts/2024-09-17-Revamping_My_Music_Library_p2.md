@@ -9,14 +9,14 @@ After recently migrating my music collection to Traktor DJ, I embarked on a miss
 
 **Exporting Playlists from Traktor DJ**
 
-The first step was finding a way to regularly export playlists from Traktor DJ, which doesn't natively support this feature. After some research, I discovered a script on [GitHub](https://github.com/lord-carlos/traktor-2-playlist) that could do the job (big thanks to [lord-carlos](https://github.com/lord-carlos) for the initial work on the script). I contributed a few modifications to tailor it to my specific needs, ensuring it could handle my library's structure and export formats.
+The first step was finding a way to regularly export playlists from Traktor DJ, which doesn't natively support this feature. After some research, I discovered a script on [GitHub](https://github.com/lord-carlos/traktor-2-playlist){:target="\_blank"} that could do the job (big thanks to [lord-carlos](https://github.com/lord-carlos){:target="\_blank"} for the initial work on the script). I contributed a few modifications to tailor it to my specific needs, ensuring it could handle my library's structure and export formats.
 
 An unexpected benefit of this script is that I can now play all my playlists using any music app that supports standard playlist formats:
 ![Music Player](/images/musicPlayer.png)
 
 **The Synchronization Solution: Enter Syncthing**
 
-With the playlists exported, the next step was to push these playlists, together with music files to my phone. For this, I turned to [Syncthing](https://syncthing.net/), an open-source file synchronization tool.
+With the playlists exported, the next step was to push these playlists, together with music files to my phone. For this, I turned to [Syncthing](https://syncthing.net/){:target="\_blank"}, an open-source file synchronization tool.
 
 **Quick Syncthing Introduction**
 
@@ -28,7 +28,7 @@ Syncthing is a free, decentralized file synchronization application that works a
 
 **Finding the Right Android Music Player**
 
-After trying several Android music players, I found that [Vinyl](https://github.com/VinylMusicPlayer/VinylMusicPlayer?tab=readme-ov-file) was the perfect match for my setup. It seamlessly imports the synced playlists without requiring any manual edits, making it a hassle-free solution for enjoying my Traktor DJ library on Android.
+After trying several Android music players, I found that [Vinyl](https://github.com/VinylMusicPlayer/VinylMusicPlayer?tab=readme-ov-file){:target="\_blank"} was the perfect match for my setup. It seamlessly imports the synced playlists without requiring any manual edits, making it a hassle-free solution for enjoying my Traktor DJ library on Android.
 
 **Streamlining the Process**
 
