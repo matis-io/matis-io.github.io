@@ -13,19 +13,19 @@ This website is created using Markdown, compiled with Jekyll, and hosted on GitH
 ### Mobile & Dekstop
 - Proton Suite
 - Notesnook (planning and note-taking)
-- Firefox (with Privacy Badger, LocalCDN & uBlock Origin)
+- Firefox (with Privacy Badger, LocalCDN & uBlock Origin)  
 ## Dektop
 I'm using a MacBook Pro 13 (2019) and install most of the software using Homebrew package manager.  
 Here are just a couple of programs that I find indispensable:
 - Zettlr (for storing my knowledge base)
 - VSCodium (for editing this page)
 - IINA (music and media player)
-- LuLu (open source firewall)
+- LuLu (open source firewall)  
 ## Mobile
 I'm using a Sony Xperia phone and install most of the software via F-Droid or Aurora Store.
 Here are more esential apps that I use on my phone:
 - mLauncher (minimal launcher)
 - Mull Browser (to access any social media)
-- Vinly (my go to music player)
+- Vinly (my go to music player)  
 ## Music Studio
 You can check out the <a href="{{ site.url }}/blog/my-music-studio">My Music Studi</a>, a dedicated blog post where go into details of my music gear.
