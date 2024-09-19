@@ -33,4 +33,4 @@ Here are more esential apps that I use on my phone:
 - Vinly (my go to music player)  
 
 ## Music Studio
-You can check out the <a href="{{ site.url }}/blog/my-music-studio">My Music Studi</a>, a dedicated blog post where go into details of my music gear.
+You can check out the <a href="{{ site.url }}/blog/my-music-studio">My Music Studio</a>, a dedicated blog post where go into details of my music gear.
